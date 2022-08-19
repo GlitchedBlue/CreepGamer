@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CreepGamer
 - 👀 I’m interested in coding HTML, CSS
-- 🌱 I’m currently going to learn java script. 
+- 🌱 I’m currently going to learn PHP. 
 
 <!---
 CreepGamer/CreepGamer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
